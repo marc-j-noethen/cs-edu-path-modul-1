@@ -1,6 +1,6 @@
 # 🖥️ Feeling Left Out?
 
-**Course:** Cyber Security Analyst - Technical Foundation Basics | **Date:** 04 July 2025
+**Course:** Cyber Security Analyst - Technical Fundament Basics | **Date:** 04 July 2025
 
 ---
 

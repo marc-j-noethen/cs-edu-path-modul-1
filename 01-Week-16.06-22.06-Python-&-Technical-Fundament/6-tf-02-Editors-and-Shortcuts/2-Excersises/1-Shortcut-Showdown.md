@@ -1,6 +1,6 @@
 # 🖥️ Shortcut Showdown (Keyboard Shortcut Training)
 
-**Course:** Cyber Security Analyst - Technical Foundation Basics | **Date:** 20 June 2025
+**Course:** Cyber Security Analyst - Technical Fundament Basics | **Date:** 20 June 2025
 
 ---
 

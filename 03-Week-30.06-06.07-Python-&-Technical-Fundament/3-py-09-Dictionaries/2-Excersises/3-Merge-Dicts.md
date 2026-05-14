@@ -1,6 +1,6 @@
 # 🐍 Merge Dicts - Merging Dictionaries
 
-## **Course:** Cyber Security Analyst - Python Basics | **Date:** 02 July 2025
+**Course:** Cyber Security Analyst - Python Basics | **Date:** 02 July 2025
 
 ## Task
 

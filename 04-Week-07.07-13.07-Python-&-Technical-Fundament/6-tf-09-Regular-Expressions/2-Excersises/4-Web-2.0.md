@@ -1,6 +1,6 @@
 # 🖥️ Web 2.0 - Matching HTML tags
 
-**Course:** Cyber Security Analyst - Technical Foundation Basics | **Date:** 11 July 2025
+**Course:** Cyber Security Analyst - Technical Fundament Basics | **Date:** 11 July 2025
 
 ---
 

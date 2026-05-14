@@ -1,6 +1,6 @@
 # 🐍 Find Keys By Value - Search for keys by value
 
-**Course:** Cyber Security Analyst - Python Basics | **Date:** 2 July 2025
+**Course:** Cyber Security Analyst - Python Basics | **Date:** 02 July 2025
 
 ---
 

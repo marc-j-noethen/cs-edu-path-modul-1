@@ -1,6 +1,6 @@
 # 🖥️ Constraint Comforts - WHERE Clause
 
-**Course:** Cyber Security Analyst - Technical Foundation Basics | **Date:** 03 July 2025
+**Course:** Cyber Security Analyst - Technical Fundament Basics | **Date:** 03 July 2025
 
 ---
 

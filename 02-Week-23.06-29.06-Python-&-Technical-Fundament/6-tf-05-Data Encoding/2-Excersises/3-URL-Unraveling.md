@@ -1,6 +1,6 @@
 # 🖥️ URL Unraveling - Percent Encoding
 
-**Course:** Cyber Security Analyst - Python Basics | **Date:** 27 June 2025
+**Course:** Cyber Security Analyst - Technical Fundament Basics | **Date:** 27 June 2025
 
 ---
 

@@ -1,6 +1,6 @@
 # 🖥️ Endian Expedition - Byte Order Analysis
 
-**Course:** Cyber Security Analyst - Python Basics | **Date:** 27 June 2025
+**Course:** Cyber Security Analyst - Technical Fundament Basics | **Date:** 27 June 2025
 
 ---
 

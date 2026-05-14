@@ -1,6 +1,6 @@
 # 🖥️ Data Director - Creating an SQLite database with Python
 
-**Course:** Cyber Security Analyst - Technical Foundation Basics | **Date:** 03 July 2025
+**Course:** Cyber Security Analyst - Technical Fundament Basics | **Date:** 03 July 2025
 
 ---
 

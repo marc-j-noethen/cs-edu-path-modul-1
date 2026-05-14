@@ -1,6 +1,6 @@
 # 🖥️ Log Lurker
 
-**Course:** Cyber Security Analyst - Technical Foundation Basics | **Date:** 19 June 2025
+**Course:** Cyber Security Analyst - Technical Fundament Basics | **Date:** 19 June 2025
 
 ---
 

@@ -1,6 +1,6 @@
 # 🐍 Safe Division with Error Handling
 
-**Course:** Cyber Security Analyst - Python Basics | **Date:** 9 July 2025
+**Course:** Cyber Security Analyst - Python Basics | **Date:** 09 July 2025
 
 ---
 

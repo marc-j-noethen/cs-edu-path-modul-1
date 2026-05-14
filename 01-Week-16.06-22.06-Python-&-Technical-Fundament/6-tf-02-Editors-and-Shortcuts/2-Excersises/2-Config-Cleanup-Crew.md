@@ -1,6 +1,6 @@
 # 🖥️ Config Cleanup Crew (Cleaning up the configuration)
 
-**Course:** Cyber Security Analyst - Technical Foundation Basics | **Date:** 20 June 2025
+**Course:** Cyber Security Analyst - Technical Fundament Basics | **Date:** 20 June 2025
 
 ---
 

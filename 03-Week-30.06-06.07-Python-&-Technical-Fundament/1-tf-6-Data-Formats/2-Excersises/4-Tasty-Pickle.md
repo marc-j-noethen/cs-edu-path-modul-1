@@ -1,6 +1,6 @@
 # 🖥️ Tasty Pickle - Saving/loading Python objects
 
-**Course:** Cyber Security Analyst - Technical Foundation Basics | **Date:** 30 Juni 2025
+**Course:** Cyber Security Analyst - Technical Fundament Basics | **Date:** 30 June 2025
 
 ---
 

@@ -1,6 +1,6 @@
 # 🖥️ Not Pair! - Parity Checking
 
-**Course:** Cyber Security Analyst - Technical Foundation Basics | **Date:** 25 June 2025
+**Course:** Cyber Security Analyst - Technical Fundament Basics | **Date:** 25 June 2025
 
 ---
 

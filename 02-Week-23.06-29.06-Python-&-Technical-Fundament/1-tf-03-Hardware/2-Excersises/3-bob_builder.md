@@ -1,6 +1,6 @@
 # 🖥️ Bob the Builder - PC Configuration
 
-**Course:** Cyber Security Analyst - Technical Foundation Basics | **Date:** 23 June 2025
+**Course:** Cyber Security Analyst - Technical Fundament Basics | **Date:** 23 June 2025
 
 ---
 

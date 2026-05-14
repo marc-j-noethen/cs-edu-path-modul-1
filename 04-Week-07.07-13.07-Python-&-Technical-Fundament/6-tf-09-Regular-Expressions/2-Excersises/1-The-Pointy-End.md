@@ -1,6 +1,6 @@
 # 🖥️ The Pointy End - Matching decimal numbers
 
-**Course:** Cyber Security Analyst - Technical Foundation Basics | **Date:** 11 July 2025
+**Course:** Cyber Security Analyst - Technical Fundament Basics | **Date:** 11 July 2025
 
 ---
 

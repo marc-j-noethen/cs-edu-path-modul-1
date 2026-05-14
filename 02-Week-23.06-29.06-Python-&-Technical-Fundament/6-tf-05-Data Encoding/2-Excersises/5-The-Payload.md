@@ -1,6 +1,6 @@
 # 🖥️ The Payload - Base64 & Binary Data Analysis
 
-**Course:** Cyber Security Analyst - Python Basics | **Date:** 27 June 2025
+**Course:** Cyber Security Analyst - Technical Fundament Basics | **Date:** 27 June 2025
 
 ---
 
