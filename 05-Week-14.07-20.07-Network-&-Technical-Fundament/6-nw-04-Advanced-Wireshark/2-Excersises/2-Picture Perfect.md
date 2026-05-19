@@ -1,6 +1,6 @@
 # Picture Perfect (Advanced Wireshark)
 
-**Course:** Cyber Security Analyst – Network Technology | **Date:** 18 July 2025
+**Course:** Cyber Security Analyst – Network Technology | **Date:** 19 July 2025
 
 ---
 
