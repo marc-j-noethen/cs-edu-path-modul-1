@@ -1,4 +1,4 @@
-# Desktop Organiser (Windows Intro)
+# Desktop Organizer (Windows Intro)
 
 **Course:** Cyber Security Analyst – OS Technology | **Date:** 08 August 2025
 
