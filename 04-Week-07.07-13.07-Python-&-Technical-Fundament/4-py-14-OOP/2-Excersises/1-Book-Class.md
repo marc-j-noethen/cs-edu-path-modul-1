@@ -38,7 +38,7 @@ class Book:
 ## Tests
 
 | Input | Expected | Result | ✓ |
-|-------|------ ----|----------|---|
+|-------|----------|--------|---|
 | `Book("The Hitchhiker's Guide to the Galaxy", "Douglas Adams").get_details()` | "Title: The Hitchhiker's Guide to the Galaxy, Author: Douglas Adams" | Title: The Hitchhiker's Guide to the Galaxy, Author: Douglas Adams | ✅ |
 | `Book("1984", "George Orwell").get_details()` | "Title: 1984, Author: George Orwell" | Title: 1984, Author: George Orwell | ✅ |
 

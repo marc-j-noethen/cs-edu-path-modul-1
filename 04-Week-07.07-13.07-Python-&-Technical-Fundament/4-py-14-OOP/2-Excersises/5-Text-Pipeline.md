@@ -76,7 +76,7 @@ class Pipeline:
 ## Tests
 
 | Input | Expected | Result | ✓ |
-|-------|----------|--------- -|---|
+|-------|----------|----------|---|
 | `pipeline = Pipeline(); pipeline.add_processor(UpperCaseProcessor()); pipeline.add_processor(RemovePunctuationProcessor()); pipeline.run("Hello, World! How are you?")` | "HELLO WORLD HOW ARE YOU" | HELLO WORLD HOW ARE YOU | ✅ |
 | `pipeline2 = Pipeline(); pipeline2.add_processor(RemovePunctuationProcessor()); pipeline2.run("Test!")` | "Test" | Test | ✅ |
 
