@@ -1,0 +1,22 @@
+C1
+Win + D
+Shift + F10 oder alternativ Shift + STRG + N
+F2 "Text" + Enter
+STRG + C
+STRG + V
+F2 + "Text" + Enter
+STRG + X 
+STRG + V
+
+C2
+WIN + S + Enter + Auswahl SublimeText
+ALT + Druck 
+WIN + S + Enter + Auswahl Paint
+STRG + V
+
+C3
+WIN + E + Auswahl Datei
+ALT + P
+ALT + P
+ALT + Enter
+ALT + F4

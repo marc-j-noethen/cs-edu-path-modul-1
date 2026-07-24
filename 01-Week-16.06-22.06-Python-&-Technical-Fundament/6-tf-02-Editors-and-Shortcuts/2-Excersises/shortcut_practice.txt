@@ -1,0 +1,34 @@
+The brown fox quick
+jumps over the lazy dog.
+jumps over the lazy dog.
+jumps over the lazy dog.
+Pack my box with
+five dozen liquor jugs.
+
+The brown fox quick
+jumps over the lazy dog.
+
+
+
+4. **Perform all the following steps using only the specified keyboard shortcuts:**
+    - Move your cursor to the beginning of the word "quick" on the first line. (Use `Cmd+Left Arrow`, then `Option+Right Arrow`).
+    - Select the word "quick". (Use `Option+Shift+Right Arrow` or `Cmd+D`).
+    - Cut the word "quick". (Use `Cmd+X`).
+    - Move your cursor to the end of the first line. (Use `Cmd+Right Arrow`).
+    - Add a space and paste the word "quick". (Use `Spacebar`, then `Cmd+V`). (The line should now end "brown fox quick")
+    
+    - Go to the beginning of the second line. (Use `Down Arrow`, then `Cmd+Left Arrow`).
+    - Select the entire second line. (Use `Cmd+L`).
+
+    - Duplicate the second line. (Use `Cmd+Shift+D or shift+alt+arrow down`). You should now have two identical lines starting with "jumps".
+
+    - Go to the start of the file. (Use `Cmd+Up Arrow`).
+    - Select the first two lines. (Use `Cmd+L` twice, or `Shift+Down Arrow` twice).
+    - Copy the selected lines. (Use `Cmd+C`).
+    - Go to the end of the file. (Use `Cmd+Down Arrow`).
+    - Press Enter to create a new line. (Use `Enter`).
+    - Paste the copied lines. (Use `Cmd+V`).
+    
+    - Undo the last paste action. (Use `Cmd+Z`).
+    - Redo the paste action. (Use `Cmd+Shift+Z`).
+    - Save the file as `shortcut_practice.txt` on your Desktop. (Use `Cmd+S`, type the name, ensure location is Desktop, press Enter).

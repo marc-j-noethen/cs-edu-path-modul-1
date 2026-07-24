@@ -1,0 +1,29 @@
+# Server Settings - Needs Review
+
+server_name: webserver_alpha_v2 # Old naming convention
+port_number: 8080 # Standard HTTP port
+enabled: true # Should be boolean
+admin_email: 'admin@example.com' # Contact point
+log_level: 'DEBUG' 
+
+server_name: appserver_beta_v2 # Old naming convention
+port_number: 9001 # Custom app port
+enabled: true # Should be boolean
+admin_email: 'admin@example.com' # Contact point
+log_level: 'DEBUG' 
+
+server_name: dbserver_gamma_v2 # Old naming convention
+port_number: 5432 # Standard DB port
+enabled: false # Should be boolean
+admin_email: 'support@example.com' # Different contact
+log_level: 'WARN' 
+
+
+
+First:  
+
+_v2 -> Skip with Strg to the right place at the words and append _v2 with copy paste
+to do -> find and erase
+is enabled (true/false) -> find and replace
+
+
