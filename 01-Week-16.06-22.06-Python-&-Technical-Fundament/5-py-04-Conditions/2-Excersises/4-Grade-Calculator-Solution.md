@@ -107,11 +107,6 @@ The screenshot shows the grade calculator solution passing all tests.
 
 ![Evidence](screenshots/4-Grade-Calculator-evidence.png)
 
-**Screenshots:**
-
-![Evidence](screenshots/4-Grade-Calculator-evidence.png)
-
-
 ## Notes
 
 - **Concept:** Input validation, multi-level conditions

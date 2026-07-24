@@ -93,11 +93,6 @@ The screenshot shows the course platform marking the submission as correct. The 
 
 This exercise shows why user input needs explicit type conversion before mathematical operations. That matters in automation scripts where text input must become numbers before calculations, comparisons, thresholds, or scoring can work reliably.
 
-**Screenshots:**
-
-![Course platform showing Rectangle Area exercise passed](screenshots/5-Rectangle-Area-platform-result.png)
-
-
 ## Notes
 
 - **Concept:** Type conversion (Type Casting)

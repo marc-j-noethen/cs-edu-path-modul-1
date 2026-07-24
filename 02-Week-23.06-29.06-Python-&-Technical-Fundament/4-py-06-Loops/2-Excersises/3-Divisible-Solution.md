@@ -55,11 +55,6 @@ The screenshot shows the passed Cybersteps check for finding the first value div
 
 ![Evidence](screenshots/3-Divisible-evidence.png)
 
-**Screenshots:**
-
-![Evidence](screenshots/3-Divisible-evidence.png)
-
-
 ## Notes
 
 - **Concept:** `for` loop with `break`, modulo operator `%`, flag variable

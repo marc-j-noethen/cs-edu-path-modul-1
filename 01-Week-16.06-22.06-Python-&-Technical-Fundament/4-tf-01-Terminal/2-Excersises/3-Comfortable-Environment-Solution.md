@@ -108,13 +108,6 @@ The platform screenshot shows the assignment submitted and graded as Done.
 
 ![Platform evidence](screenshots/tf1-03-platform-submission.png)
 
-**Screenshots:**
-
-![Evidence](screenshots/3-Comfortable-Environment-evidence.png)
-
-![Platform evidence](screenshots/tf1-03-platform-submission.png)
-
-
 ## Notes
 
 - **Learned:** Difference between `>` (overwrite) and `>>` (append)

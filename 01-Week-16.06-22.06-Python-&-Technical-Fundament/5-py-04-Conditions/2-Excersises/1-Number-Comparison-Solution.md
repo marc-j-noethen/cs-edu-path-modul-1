@@ -69,11 +69,6 @@ The screenshot shows the number comparison solution passing all tests.
 
 ![Evidence](screenshots/1-Number-Comparison-evidence.png)
 
-**Screenshots:**
-
-![Evidence](screenshots/1-Number-Comparison-evidence.png)
-
-
 ## Notes
 
 - **Concept:** `if`, `elif`, `else` control structures

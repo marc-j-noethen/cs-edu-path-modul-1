@@ -101,11 +101,6 @@ The screenshot shows the triangle classifier solution passing all tests.
 
 ![Evidence](screenshots/3-Triangle-Classifier-evidence.png)
 
-**Screenshots:**
-
-![Evidence](screenshots/3-Triangle-Classifier-evidence.png)
-
-
 ## Notes
 
 - **Concept:** Multiple conditions, chained comparisons

@@ -88,11 +88,6 @@ The screenshot shows the course platform marking the submission as correct. The 
 
 This exercise practices deliberate multi-line output formatting. That matters when scripts need to produce readable terminal output, simple reports, or structured operator messages.
 
-**Screenshots:**
-
-![Course platform showing Multiline Print exercise passed](screenshots/4-Multiline-Print-platform-result.png)
-
-
 ## Notes
 
 - **Concept:** Escape sequences and multi-line strings

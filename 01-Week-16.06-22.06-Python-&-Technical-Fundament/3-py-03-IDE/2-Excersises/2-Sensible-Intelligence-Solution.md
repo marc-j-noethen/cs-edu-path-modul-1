@@ -99,11 +99,6 @@ The screenshot shows clues.py in VS Code. Execution is paused at the breakpoint;
 
 ![Evidence](screenshots/2-Sensible-Intelligence-evidence.png)
 
-**Screenshots:**
-
-![Evidence](screenshots/2-Sensible-Intelligence-evidence.png)
-
-
 ## Notes
 
 - **IntelliSense:** Automatic code completion

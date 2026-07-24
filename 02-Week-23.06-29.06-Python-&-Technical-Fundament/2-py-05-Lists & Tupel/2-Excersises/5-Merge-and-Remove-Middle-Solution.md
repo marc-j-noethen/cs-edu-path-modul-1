@@ -57,11 +57,6 @@ The screenshot shows the passed Cybersteps check for merging, sorting, and remov
 
 ![Evidence](screenshots/5-Merge-and-Remove-Middle-evidence.png)
 
-**Screenshots:**
-
-![Evidence](screenshots/5-Merge-and-Remove-Middle-evidence.png)
-
-
 ## Notes
 
 - **Concept:** List concatenation using `+`, `sorted()`, `del`, modulo operation

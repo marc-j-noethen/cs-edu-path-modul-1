@@ -48,11 +48,6 @@ The screenshot shows the passed Cybersteps check for list operations using appen
 
 ![Evidence](screenshots/1-Shelf-Management-evidence.png)
 
-**Screenshots:**
-
-![Evidence](screenshots/1-Shelf-Management-evidence.png)
-
-
 ## Notes
 
 - **Concept:** List methods (`append`, `insert`, `remove`, `index`)

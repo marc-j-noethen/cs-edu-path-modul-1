@@ -87,11 +87,6 @@ The screenshot shows the course platform marking the submission as correct. The 
 
 This exercise practices handling mixed data types in one small workflow. Automation scripts often need this same care when combining labels, counts, and measured numeric values.
 
-**Screenshots:**
-
-![Course platform showing Item Cost Calculator exercise passed](screenshots/4-Item-Cost-Calculator-platform-result.png)
-
-
 ## Notes
 
 - **Concept:** Combination of `int()` and `float()` type conversion

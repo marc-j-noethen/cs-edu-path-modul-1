@@ -52,11 +52,6 @@ The screenshot shows the passed Cybersteps check for calculating the sum from 1 
 
 ![Evidence](screenshots/1-Sum-evidence.png)
 
-**Screenshots:**
-
-![Evidence](screenshots/1-Sum-evidence.png)
-
-
 ## Notes
 
 - **Concept:** `for` loop with `range()`, accumulator variable

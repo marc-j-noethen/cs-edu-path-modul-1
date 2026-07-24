@@ -169,13 +169,6 @@ The platform screenshot shows the assignment submitted and graded as Done.
 
 ![Platform evidence](screenshots/tf4-02-platform-submission.png)
 
-**Screenshots:**
-
-![Evidence](screenshots/TF4-two-step-transformation-evidence.jpeg)
-
-![Platform evidence](screenshots/tf4-02-platform-submission.png)
-
-
 ## Notes
 
 - **Learned:** XOR operation, targeted bit flipping, multi-stage transformations

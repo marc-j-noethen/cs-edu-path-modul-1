@@ -71,13 +71,6 @@ The platform screenshot shows the assignment submitted and graded as Done.
 
 ![Platform evidence](screenshots/tf1-04-platform-submission.png)
 
-**Screenshots:**
-
-![Evidence](screenshots/4-Command-Lineup-evidence.png)
-
-![Platform evidence](screenshots/tf1-04-platform-submission.png)
-
-
 ## Notes
 
 - **Learnt:** Combination of `head` and `tail` for precise line selection

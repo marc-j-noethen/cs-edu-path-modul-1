@@ -172,11 +172,6 @@ The platform screenshot shows the assignment submitted and graded as Done.
 
 ![Platform evidence](screenshots/tf2-01-platform-submission.png)
 
-**Screenshots:**
-
-![Platform evidence](screenshots/tf2-01-platform-submission.png)
-
-
 ## Notes
 
 - **Learned:** Navigation and selection without a mouse.

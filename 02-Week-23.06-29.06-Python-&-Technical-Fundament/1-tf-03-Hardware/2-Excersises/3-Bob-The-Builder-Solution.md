@@ -99,11 +99,6 @@ The platform screenshot documents the resubmitted second attempt for this assign
 
 ![Platform evidence](screenshots/tf3-03-platform-submission-redo.png)
 
-**Screenshots:**
-
-![Platform evidence](screenshots/tf3-03-platform-submission-redo.png)
-
-
 ## Notes
 
 - **Learned:** Component selection based on use case, budget optimisation, avoiding bottlenecks

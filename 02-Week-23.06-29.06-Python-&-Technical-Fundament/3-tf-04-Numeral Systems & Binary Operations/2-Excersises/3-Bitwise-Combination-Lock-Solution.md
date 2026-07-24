@@ -163,13 +163,6 @@ The platform screenshot shows the assignment submitted and graded as Done.
 
 ![Platform evidence](screenshots/tf4-03-platform-submission.png)
 
-**Screenshots:**
-
-![Evidence](screenshots/TF4-bitwise-combination-evidence.jpeg)
-
-![Platform evidence](screenshots/tf4-03-platform-submission.png)
-
-
 ## Notes
 
 - **Learned:** The order of bitwise operations is crucial; systematic testing

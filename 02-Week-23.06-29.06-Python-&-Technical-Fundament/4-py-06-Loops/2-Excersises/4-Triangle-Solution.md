@@ -52,11 +52,6 @@ The screenshot shows the passed Cybersteps check for printing a number triangle 
 
 ![Evidence](screenshots/4-Triangle-evidence.png)
 
-**Screenshots:**
-
-![Evidence](screenshots/4-Triangle-evidence.png)
-
-
 ## Notes
 
 - **Concept:** Nested loops, `range()`, string manipulation

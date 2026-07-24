@@ -81,11 +81,6 @@ The screenshot shows the course platform marking the submission as correct. The 
 
 This exercise practices collecting multiple input values, storing them, and combining them into one readable output. The same pattern appears in automation scripts that accept several parameters and report the resulting context clearly.
 
-**Screenshots:**
-
-![Course platform showing Name & Hobby exercise passed](screenshots/3-Name-and-Hobby-platform-result.png)
-
-
 ## Notes
 
 - **Concept:** String concatenation using `+`

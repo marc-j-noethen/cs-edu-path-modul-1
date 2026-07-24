@@ -60,11 +60,6 @@ The screenshot shows the passed Cybersteps check for filtering words by minimum 
 
 ![Evidence](screenshots/3-Filter-Cap-evidence.png)
 
-**Screenshots:**
-
-![Evidence](screenshots/3-Filter-Cap-evidence.png)
-
-
 ## Notes
 
 - **Concept:** List filtering, string methods (`.upper()`), `len()`

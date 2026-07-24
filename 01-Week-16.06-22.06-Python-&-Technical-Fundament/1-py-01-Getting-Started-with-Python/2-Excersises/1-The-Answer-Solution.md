@@ -73,11 +73,6 @@ The screenshot shows the course platform marking the submission as correct. The 
 
 This exercise builds the foundation for small automation scripts: calculate a value, store it in a variable, and produce an exact, reviewer-readable output. That same precision matters later when scripts generate logs, checks, or security reports.
 
-**Screenshots:**
-
-![Course platform showing The Answer exercise passed](screenshots/1-The-Answer-platform-result.png)
-
-
 ## Notes
 
 - **Concept:** Variable assignment and f-strings

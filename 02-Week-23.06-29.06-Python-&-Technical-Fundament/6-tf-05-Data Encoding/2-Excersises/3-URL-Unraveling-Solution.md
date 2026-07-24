@@ -204,11 +204,6 @@ The platform screenshot shows the assignment submitted and graded as Done.
 
 ![Platform evidence](screenshots/tf5-03-platform-submission.png)
 
-**Screenshots:**
-
-![Platform evidence](screenshots/tf5-03-platform-submission.png)
-
-
 ## Notes
 
 - **Learned:** Necessity of URL encoding, percent encoding, UTF-8 in URLs

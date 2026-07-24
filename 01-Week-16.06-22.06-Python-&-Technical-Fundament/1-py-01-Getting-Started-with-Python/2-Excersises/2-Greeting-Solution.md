@@ -77,11 +77,6 @@ The screenshot shows the course platform marking the submission as correct. The 
 
 This exercise introduces user input and formatted output. The same pattern appears in security automation when scripts accept parameters such as usernames, paths, targets, or configuration values and then report clear results.
 
-**Screenshots:**
-
-![Course platform showing Greeting exercise passed](screenshots/2-Greeting-platform-result.png)
-
-
 ## Notes
 
 - **Concept:** `input()` always returns a string

@@ -51,11 +51,6 @@ The screenshot shows the passed Cybersteps check for appending a lap time and ca
 
 ![Evidence](screenshots/2-Lap-Times-Analysis-evidence.png)
 
-**Screenshots:**
-
-![Evidence](screenshots/2-Lap-Times-Analysis-evidence.png)
-
-
 ## Notes
 
 - **Concept:** `min()`, `max()`, list manipulation, edge case handling

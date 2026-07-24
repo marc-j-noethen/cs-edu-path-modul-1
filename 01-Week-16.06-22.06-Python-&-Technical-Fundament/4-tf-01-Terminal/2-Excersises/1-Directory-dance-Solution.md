@@ -115,13 +115,6 @@ The platform screenshot shows the assignment submitted and graded as Done.
 
 ![Platform evidence](screenshots/tf1-01-platform-submission.png)
 
-**Screenshots:**
-
-![Evidence](screenshots/1-Directory-Dance-evidence.png)
-
-![Platform evidence](screenshots/tf1-01-platform-submission.png)
-
-
 ## Notes
 
 - **Learnt:** Difference between absolute and relative paths

@@ -67,11 +67,6 @@ The screenshot shows the passed Cybersteps check for calculating the average and
 
 ![Evidence](screenshots/2-Above-Avg-evidence.png)
 
-**Screenshots:**
-
-![Evidence](screenshots/2-Above-Avg-evidence.png)
-
-
 ## Notes
 
 - **Concept:** `sum()`, `len()`, calculating the average, iteration

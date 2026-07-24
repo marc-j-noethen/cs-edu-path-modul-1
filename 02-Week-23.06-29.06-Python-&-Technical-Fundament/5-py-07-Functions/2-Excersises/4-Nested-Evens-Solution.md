@@ -64,11 +64,6 @@ The screenshot shows the passed Cybersteps check for recursively traversing nest
 
 ![Evidence](screenshots/4-Nested-Evens-evidence.png)
 
-**Screenshots:**
-
-![Evidence](screenshots/4-Nested-Evens-evidence.png)
-
-
 ## Notes
 
 - **Concept:** Recursion, `isinstance()`, modulo operator `%`

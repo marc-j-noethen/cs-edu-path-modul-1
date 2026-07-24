@@ -86,11 +86,6 @@ The screenshot shows the course platform marking the submission as correct. The 
 
 This exercise practices combining separate input values into a precise output string. That same pattern appears in automation scripts that produce readable user, asset, or report labels.
 
-**Screenshots:**
-
-![Course platform showing Full Name Greeting exercise passed](screenshots/2-Full-Name-Greeting-platform-result.png)
-
-
 ## Notes
 
 - **Concept:** Combining multiple inputs with f-strings

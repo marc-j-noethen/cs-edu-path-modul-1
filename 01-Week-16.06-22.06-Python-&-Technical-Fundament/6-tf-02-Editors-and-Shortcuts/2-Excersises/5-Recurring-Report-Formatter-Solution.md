@@ -143,11 +143,6 @@ The platform screenshot shows the assignment submitted and graded as Done.
 
 ![Platform evidence](screenshots/tf2-05-platform-submission.png)
 
-**Screenshots:**
-
-![Platform evidence](screenshots/tf2-05-platform-submission.png)
-
-
 ## Notes
 
 - **Learned:** Regex Find & Replace, capture groups, and reusable editing workflows.

@@ -151,11 +151,6 @@ The platform screenshot shows the assignment submitted and graded as Done.
 
 ![Platform evidence](screenshots/tf4-01-platform-submission.png)
 
-**Screenshots:**
-
-![Platform evidence](screenshots/tf4-01-platform-submission.png)
-
-
 ## Notes
 
 - **Learned:** Number system conversions, binary addition, bitwise operations

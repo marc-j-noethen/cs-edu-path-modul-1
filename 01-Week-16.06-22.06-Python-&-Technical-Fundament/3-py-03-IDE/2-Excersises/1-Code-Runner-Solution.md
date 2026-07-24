@@ -85,11 +85,6 @@ The screenshot shows hello_vscode.py in VS Code and successful execution in the 
 
 ![Evidence](screenshots/1-Code-Runner-evidence.png)
 
-**Screenshots:**
-
-![Evidence](screenshots/1-Code-Runner-evidence.png)
-
-
 ## Notes
 
 - **New file:** `Ctrl+N`

@@ -82,11 +82,6 @@ The screenshot shows the course platform marking the submission as correct. The 
 
 This exercise reinforces explicit type conversion before calculations. In automation and security scripts, text input often needs to become numeric data before thresholds, counters, risk scores, or calculations can be handled correctly.
 
-**Screenshots:**
-
-![Course platform showing Sum Calculator exercise passed](screenshots/1-Sum-Calculator-platform-result.png)
-
-
 ## Notes
 
 - **Concept:** Type conversion with `int()` and arithmetic operations

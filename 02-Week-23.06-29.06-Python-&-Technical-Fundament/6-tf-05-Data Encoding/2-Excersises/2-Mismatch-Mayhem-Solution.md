@@ -130,11 +130,6 @@ The platform screenshot shows the assignment submitted and graded as Done.
 
 ![Platform evidence](screenshots/tf5-02-platform-submission.png)
 
-**Screenshots:**
-
-![Platform evidence](screenshots/tf5-02-platform-submission.png)
-
-
 ## Notes
 
 - **Learned:** Encoding mismatches, try-except exception handling, UTF-8 vs ASCII

@@ -88,11 +88,6 @@ The screenshot shows the course platform marking the submission as correct. The 
 
 This exercise practices controlled string repetition and numeric input conversion. The same idea can appear in simple test data generation, repeated labels, or controlled output formatting.
 
-**Screenshots:**
-
-![Course platform showing Message Repeater exercise passed](screenshots/5-Message-Repeater-platform-result.png)
-
-
 ## Notes
 
 - **Concept:** String multiplication using the `*` operator

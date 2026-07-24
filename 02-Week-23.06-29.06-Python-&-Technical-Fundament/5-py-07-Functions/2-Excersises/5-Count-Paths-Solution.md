@@ -63,11 +63,6 @@ The screenshot shows the passed Cybersteps check for recursively calculating uni
 
 ![Evidence](screenshots/5-Count-Paths-evidence.png)
 
-**Screenshots:**
-
-![Evidence](screenshots/5-Count-Paths-evidence.png)
-
-
 ## Notes
 
 - **Concept:** Recursion, combinatorics, pathfinding

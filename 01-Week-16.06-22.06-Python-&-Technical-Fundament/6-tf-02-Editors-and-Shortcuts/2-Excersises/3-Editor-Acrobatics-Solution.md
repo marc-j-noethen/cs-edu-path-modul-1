@@ -132,11 +132,6 @@ The platform screenshot shows the assignment submitted and graded as Done.
 
 ![Platform evidence](screenshots/tf2-03-platform-submission.png)
 
-**Screenshots:**
-
-![Platform evidence](screenshots/tf2-03-platform-submission.png)
-
-
 ## Notes
 
 - **Learned:** Case conversion, sorting, regex-based extraction.

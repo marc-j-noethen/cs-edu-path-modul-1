@@ -109,11 +109,6 @@ The platform screenshot shows the assignment submitted and graded as Done.
 
 ![Platform evidence](screenshots/tf5-01-platform-submission.png)
 
-**Screenshots:**
-
-![Platform evidence](screenshots/tf5-01-platform-submission.png)
-
-
 ## Notes
 
 - **Learnt:** ASCII vs UTF-8, multi-byte encodings, Base64 encoding/decoding

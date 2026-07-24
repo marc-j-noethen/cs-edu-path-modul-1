@@ -51,11 +51,6 @@ The screenshot shows the passed Cybersteps check for counting down to 1 and prin
 
 ![Evidence](screenshots/2-Countdown-evidence.png)
 
-**Screenshots:**
-
-![Evidence](screenshots/2-Countdown-evidence.png)
-
-
 ## Notes
 
 - **Concept:** `for` loop with `range()` and a negative step

@@ -85,11 +85,6 @@ The screenshot shows the course platform marking the submission as correct. The 
 
 This exercise practices converting raw numeric input into readable units. The same idea appears in scripts that summarize durations, counters, rates, or time windows.
 
-**Screenshots:**
-
-![Course platform showing Name Hobby Summary exercise passed](screenshots/3-Name-Hobby-Summary-platform-result.png)
-
-
 ## Notes
 
 - **Concept:** String concatenation using the `+` operator

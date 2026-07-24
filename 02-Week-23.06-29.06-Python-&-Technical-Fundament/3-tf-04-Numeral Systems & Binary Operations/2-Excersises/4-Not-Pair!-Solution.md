@@ -196,11 +196,6 @@ The platform screenshot shows the assignment submitted and graded as Done.
 
 ![Platform evidence](screenshots/tf4-04-platform-submission.png)
 
-**Screenshots:**
-
-![Platform evidence](screenshots/tf4-04-platform-submission.png)
-
-
 ## Notes
 
 - **Learnt:** Parity checking for error detection, even vs odd parity

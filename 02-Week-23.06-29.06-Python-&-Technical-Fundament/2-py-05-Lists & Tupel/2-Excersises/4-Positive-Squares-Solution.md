@@ -42,11 +42,6 @@ The screenshot shows the passed Cybersteps check for the list comprehension that
 
 ![Evidence](screenshots/4-Positive-Squares-evidence.png)
 
-**Screenshots:**
-
-![Evidence](screenshots/4-Positive-Squares-evidence.png)
-
-
 ## Notes
 
 - **Concept:** List comprehension with a condition (`if`)

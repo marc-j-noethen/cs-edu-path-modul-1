@@ -58,11 +58,6 @@ The screenshot shows the passed Cybersteps check for a function with multiple pa
 
 ![Evidence](screenshots/1-Greeting-evidence.png)
 
-**Screenshots:**
-
-![Evidence](screenshots/1-Greeting-evidence.png)
-
-
 ## Notes
 
 - **Concept:** Conditional statements (`if/else`), string formatting with f-strings

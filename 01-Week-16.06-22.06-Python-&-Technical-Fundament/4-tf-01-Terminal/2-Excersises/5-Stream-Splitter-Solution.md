@@ -79,13 +79,6 @@ The platform screenshot shows the assignment submitted and graded as Done.
 
 ![Platform evidence](screenshots/tf1-05-platform-submission.png)
 
-**Screenshots:**
-
-![Evidence](screenshots/5-Stream-Splitter-evidence.png)
-
-![Platform evidence](screenshots/tf1-05-platform-submission.png)
-
-
 ## Notes
 
 - **File Descriptors:**

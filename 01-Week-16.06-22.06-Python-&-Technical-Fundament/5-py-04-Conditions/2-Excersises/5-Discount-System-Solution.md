@@ -106,11 +106,6 @@ The screenshot shows the discount system solution passing all tests.
 
 ![Evidence](screenshots/5-Discount-System-evidence.png)
 
-**Screenshots:**
-
-![Evidence](screenshots/5-Discount-System-evidence.png)
-
-
 ## Notes
 
 - **Concept:** Multiple independent `if` conditions (no `elif`!)

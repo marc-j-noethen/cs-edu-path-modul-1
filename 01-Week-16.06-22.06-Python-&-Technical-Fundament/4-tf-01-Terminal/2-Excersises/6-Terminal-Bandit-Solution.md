@@ -167,11 +167,6 @@ The platform screenshot shows the assignment submitted and graded as Done.
 
 ![Platform evidence](screenshots/tf1-06-platform-submission.png)
 
-**Screenshots:**
-
-![Platform evidence](screenshots/tf1-06-platform-submission.png)
-
-
 ## Notes
 
 - **Learned:**

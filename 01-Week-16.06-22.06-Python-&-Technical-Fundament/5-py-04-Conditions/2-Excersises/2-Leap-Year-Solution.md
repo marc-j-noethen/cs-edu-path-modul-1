@@ -91,11 +91,6 @@ The screenshot shows the leap year solution passing all tests.
 
 ![Evidence](screenshots/2-Leap-Year-evidence.png)
 
-**Screenshots:**
-
-![Evidence](screenshots/2-Leap-Year-evidence.png)
-
-
 ## Notes
 
 - **Concept:** Nested conditions, modulo operator

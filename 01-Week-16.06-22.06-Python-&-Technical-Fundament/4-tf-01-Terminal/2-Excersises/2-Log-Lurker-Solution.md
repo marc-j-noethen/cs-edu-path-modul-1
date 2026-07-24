@@ -87,13 +87,6 @@ The platform screenshot shows the assignment submitted and graded as Done.
 
 ![Platform evidence](screenshots/tf1-02-platform-submission.png)
 
-**Screenshots:**
-
-![Evidence](screenshots/2-Log-Lurker-evidence.png)
-
-![Platform evidence](screenshots/tf1-02-platform-submission.png)
-
-
 ## Notes
 
 - **Learned:** `ls` options can be combined (`-lSr` instead of `-l -S -r`)

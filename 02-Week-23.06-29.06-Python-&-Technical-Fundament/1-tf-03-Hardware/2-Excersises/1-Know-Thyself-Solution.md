@@ -75,11 +75,6 @@ The platform screenshot shows the assignment submitted and graded as Done.
 
 ![Platform evidence](screenshots/tf3-01-platform-submission.png)
 
-**Screenshots:**
-
-![Evidence](screenshots/1-Know-Thyself-evidence.png)
-
-![Platform evidence](screenshots/tf3-01-platform-submission.png)
 
 ![Imported evidence](screenshots/1-know_thyself-submission.png)
 

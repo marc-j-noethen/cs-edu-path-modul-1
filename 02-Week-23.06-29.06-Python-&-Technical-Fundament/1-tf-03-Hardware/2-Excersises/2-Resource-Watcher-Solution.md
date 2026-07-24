@@ -119,11 +119,6 @@ The platform screenshot shows the assignment submitted and graded as Done.
 
 ![Platform evidence](screenshots/tf3-02-platform-submission.png)
 
-**Screenshots:**
-
-![Evidence](screenshots/2-Resource-Watcher-evidence.png)
-
-![Platform evidence](screenshots/tf3-02-platform-submission.png)
 
 ![Imported evidence](screenshots/2-resource_watcher-submission.png)
 

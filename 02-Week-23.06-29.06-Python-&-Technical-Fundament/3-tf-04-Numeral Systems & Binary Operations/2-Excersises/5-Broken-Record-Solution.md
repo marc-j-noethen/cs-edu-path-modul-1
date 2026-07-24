@@ -216,11 +216,6 @@ The platform screenshot shows the assignment submitted and graded as Done.
 
 ![Platform evidence](screenshots/tf4-05-platform-submission.png)
 
-**Screenshots:**
-
-![Platform evidence](screenshots/tf4-05-platform-submission.png)
-
-
 ## Notes
 
 - **Learned:** XOR checksum for error detection, multi-stage XOR calculation

@@ -56,11 +56,6 @@ The screenshot shows the passed Cybersteps check for generating a star diamond w
 
 ![Evidence](screenshots/5-Diamond-evidence.png)
 
-**Screenshots:**
-
-![Evidence](screenshots/5-Diamond-evidence.png)
-
-
 ## Notes
 
 - **Concept:** Nested patterns, string multiplication, symmetry

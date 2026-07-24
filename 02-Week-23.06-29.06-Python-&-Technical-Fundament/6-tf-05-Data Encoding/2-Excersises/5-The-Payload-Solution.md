@@ -237,11 +237,6 @@ The platform screenshot shows the assignment submitted and graded as Done.
 
 ![Platform evidence](screenshots/tf5-05-platform-submission.png)
 
-**Screenshots:**
-
-![Platform evidence](screenshots/tf5-05-platform-submission.png)
-
-
 ## Notes
 
 - **Learned:** Base64 decoding, binary protocol parsing, checksum verification

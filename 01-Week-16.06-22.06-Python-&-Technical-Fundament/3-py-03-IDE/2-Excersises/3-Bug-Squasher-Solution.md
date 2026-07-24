@@ -123,11 +123,6 @@ The screenshot shows buggy.py in VS Code with corrected code, documented answers
 
 ![Evidence](screenshots/3-Bug-Squasher-evidence.png)
 
-**Screenshots:**
-
-![Evidence](screenshots/3-Bug-Squasher-evidence.png)
-
-
 ## Notes
 
 - **Open the Problems panel:** `View > Problems` or `Ctrl+Shift+M`

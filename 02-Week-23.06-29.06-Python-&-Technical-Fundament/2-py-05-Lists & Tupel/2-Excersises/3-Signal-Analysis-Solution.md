@@ -54,11 +54,6 @@ The screenshot shows the passed Cybersteps check for count_of_ones, first_index,
 
 ![Evidence](screenshots/3-Signal-Analysis-evidence.png)
 
-**Screenshots:**
-
-![Evidence](screenshots/3-Signal-Analysis-evidence.png)
-
-
 ## Notes
 
 - **Concept:** `count()`, `index()`, list slicing with `[::-1]`

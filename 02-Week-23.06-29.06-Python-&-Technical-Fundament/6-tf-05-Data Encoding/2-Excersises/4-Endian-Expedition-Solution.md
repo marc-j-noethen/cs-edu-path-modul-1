@@ -195,11 +195,6 @@ The platform screenshot shows the assignment submitted and graded as Done.
 
 ![Platform evidence](screenshots/tf5-04-platform-submission.png)
 
-**Screenshots:**
-
-![Platform evidence](screenshots/tf5-04-platform-submission.png)
-
-
 ## Notes
 
 - **Learned:** Big-Endian vs Little-Endian, Multi-Byte Integer Interpretation, struct module
