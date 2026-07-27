@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Two-Faced Link</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <a href="https://papertoilet.com/" class="two-faced-link">
+    Click me
+    <span class="tooltip">https://www.facebook.com/</span>
+  </a>
+
+    <script>
+        // Wähle den Button aus
+        const searchAtag = document.querySelector('.two-faced-link');
+
+        // Füge einen Klick-Listener hinzu
+        searchAtag.addEventListener('click', function() {
+            alert('This was a big mistake!!! Muhaaaaa 🤣🤣🤣🤣🤣');
+        }); 
+    </script>
+</body>
+</html>

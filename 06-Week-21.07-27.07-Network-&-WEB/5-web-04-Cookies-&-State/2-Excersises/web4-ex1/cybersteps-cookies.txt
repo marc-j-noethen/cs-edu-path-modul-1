@@ -1,0 +1,16 @@
+names
+session-id = 260-7343940-7385347
+ubid-acbde = 262-0433461-2299054
+session-token = aspUb3j2oUjDOprBsAZyxoypq5rVI/PIBsKPN
+
+new.session-id = 260-7447639-2531515
+new.ubid-acbde = 258-1083570-0704308
+session-token = gcxTHEfl8oWa+7wNdP9Eo6Rf9APtJ4mKqFGFwH
+
+new Cookie:
+ad-privacy = 0 
+
+6. 
+In the EU (including Germany), the GDPR and the ePrivacy Directive (Cookie Law) require websites to obtain informed consent before storing or accessing non-essential cookies (e.g. tracking for adverts).
+ 
+- Essential cookies (security, login, shopping basket) do not require explicit consent - they are necessary to provide the service requested by the user.

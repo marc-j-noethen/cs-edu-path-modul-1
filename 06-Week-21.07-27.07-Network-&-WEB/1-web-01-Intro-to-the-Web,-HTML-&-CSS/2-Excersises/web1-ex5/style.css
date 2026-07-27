@@ -1,0 +1,40 @@
+ body {
+    display: flex;
+    justify-content: center; /* horizontal zentrieren */
+    align-items: center;     /* vertikal zentrieren */
+    height: 100vh;           /* nimmt die ganze Höhe ein */
+    margin: 0;               /* Standardabstände weg */
+    background: #f0f0f0;     /* optional Hintergrund */
+    }
+
+    .two-faced-link {
+      position: relative;
+      color: blue;
+      text-decoration: underline;
+    }
+
+    .two-faced-link .tooltip {
+      visibility: hidden;
+      opacity: 0;
+      width: max-content;
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+      padding: 4px 8px;
+      border-radius: 4px;
+
+      position: absolute;
+      bottom: 120%;
+      left: 50%;
+      transform: translateX(-50%);
+
+      transition: opacity 0.2s;
+      font-size: 12px;
+      white-space: nowrap;
+      z-index: 10;
+    }
+
+    .two-faced-link:hover .tooltip {
+      visibility: visible;
+      opacity: 1;
+    }

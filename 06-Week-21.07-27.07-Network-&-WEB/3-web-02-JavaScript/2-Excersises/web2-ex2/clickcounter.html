@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button id="clickButton">Click Me !</button>
+    <p id="countDisplay">Times clicked: 0</p>
+</body>
+    <script>
+        let counter = 0;
+        const clickButton = document.getElementById("countDisplay");
+        //
+        document.getElementById("clickButton").addEventListener("click", function() {
+            counter++;
+            //console.log("Times clicked:" + counter);
+            clickButton.textContent = "Times clicked: " + counter;
+        });
+    </script>
+</html>

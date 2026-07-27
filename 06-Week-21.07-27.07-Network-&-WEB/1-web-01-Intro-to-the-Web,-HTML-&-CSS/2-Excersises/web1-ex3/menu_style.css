@@ -1,0 +1,26 @@
+/* Broken CSS for the menu - Please Fix Me! */
+
+.main-navigation ul {
+    list-style: circle; /* This should probably be none */
+    margin: 0; /* Typo here? */
+    padding: 0px;
+}
+
+.main-navigation li {
+    display: block; /* How to make them horizontal? */
+    margin-right: 5px; /* Add some space between items */
+}
+
+.main-navigation a {
+    display:flex; /* Or should this be block for padding to work well? */
+    padding: 10px 15px; /* Is this padding enough? */
+    background-color: #cccccc; /* Too light? */
+    color: #eeeeee; /* Too light for the background? */
+    text-decoration: underline; /* Should links be underlined? */
+}
+
+.main-navigation a:hover,
+.main-navigation .active-item a { /* How to target the active item correctly? */
+    background-color: #333333;
+    color: #ffffff;
+}

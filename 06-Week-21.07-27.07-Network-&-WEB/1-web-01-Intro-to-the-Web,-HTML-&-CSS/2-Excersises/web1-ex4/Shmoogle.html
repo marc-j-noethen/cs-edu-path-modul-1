@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Shmoogle</title>
+</head>
+<body>
+    <ul class="ul_corner_left">
+        <li class="li_corner_left">
+            <a class="a_corner_left" href="https://about.google/?fg=1&utm_source=google-DE&utm_medium=referral&utm_campaign=hp-header">About Shmoogle</a>
+        </li>
+        <li class="li_corner_left">
+            <a href="https://store.google.com/de/?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=de&pli=1">Store</a>
+        </li>
+    </ul>
+
+    <ul class="ul_middle">
+        <li class="li_middle">
+            <a href="https://www.google.com">
+                <h1 class="schmogle_title"><span class="span-1">S</span>
+                <span class="span-2">h</span>
+                <span  class="span-3">m</span>
+                <span class="span-4">oo</span>
+                <span class="span-5">g</span>
+                <span class="span-6">l</span>
+                <span class="span-7">e</span></h1>
+            </a>
+        </li>
+    </ul>
+    
+
+    <div class="search-bar">
+        <span class="icon">🔍</span>
+            <input type="text" placeholder="Suchen..." />
+        <span class="icon">🎤</span>
+        <span class="icon">📷</span>
+    </div>
+
+    <div class="button-container">
+        <button class="shmoogle_search">Shmoogle Search</button>
+        <button class="shmoogle_luck">Lucky Chance</button>
+    </div>
+    <script>
+        // Wähle den Button aus
+        const searchLiA = document.querySelector('.a_corner_left');
+
+        // Füge einen Klick-Listener hinzu
+        searchLiA.addEventListener('click', function() {
+            alert('You got Shmoogled!');
+        }); 
+
+        // Wähle den H1 aus
+        const searchH1 = document.querySelector('.schmogle_title');
+
+        // Füge einen Klick-Listener hinzu
+        searchH1.addEventListener('click', function() {
+            alert('You got Shmoogled!');
+        }); 
+
+        // Wähle den Button aus
+        const searchButton = document.querySelector('.shmoogle_search');
+
+        // Füge einen Klick-Listener hinzu
+        searchButton.addEventListener('click', function() {
+            alert('You got Shmoogled!');
+        }); 
+    </script>
+</body>
+</html>

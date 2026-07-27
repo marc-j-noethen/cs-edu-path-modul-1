@@ -1,0 +1,12 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+li a {
+    color: green;
+    text-decoration: none;
+}
+
+li a:hover {
+    color: red;
+}

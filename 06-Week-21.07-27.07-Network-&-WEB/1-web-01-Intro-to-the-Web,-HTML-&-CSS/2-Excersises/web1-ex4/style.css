@@ -1,0 +1,58 @@
+/*text-decoration: none !important;*/
+
+body {
+    background-color: white;
+    display: flex;
+    flex-direction: column; /* Elemente untereinander */
+    align-items: center;    /* horizontal zentrieren */
+}
+
+.span-1,  .span-5 {
+    color: blue;
+}
+
+.span-2, .span-4, .span-7{
+    color: brown;
+
+}
+
+.span-3,.span-6 {
+color: green;
+}
+
+
+h1 {
+    font-size: 70px;
+    
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    padding-left: 10px;
+}
+
+li {
+    list-style: none;
+}
+
+ul {
+    padding: 0 !important;
+}
+
+.ul_corner_left {
+  display: flex;       /* nebeneinander */
+  list-style: none;    /* entfernt die Punkte */
+  padding: 0;          /* entfernt Standard-Abstände */
+  margin: 0;           /* entfernt Standard-Abstände */
+  position: absolute;  /* Position fixieren */
+  top: 10px;           /* Abstand vom oberen Rand */
+  left: 10px;          /* Abstand vom linken Rand */
+}
+
+.button-container {
+  display: flex;           /* nebeneinander */
+  justify-content: center; /* horizontal zentriert */
+  gap: 10px;               /* Abstand zwischen den Buttons */
+  margin-top: 20px;        /* etwas Abstand nach oben */
+}
