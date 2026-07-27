@@ -1,0 +1,5 @@
+Local IP: 172.27.36.77
+Public IP: 77.183.246.76
+Whois role: IP Telefonica O2 Germany
+Country: DE
+APNIC Research and Development test address: 192.0.2.1
